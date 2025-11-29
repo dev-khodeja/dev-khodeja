@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khodeja Aktar</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN STACK developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-khodeja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-khodeja" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
-
-- 🌱 I’m currently learning **React js**
+- 🔭 I’m currently working on **Ecommerce Website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-khodeja](https://github.com/dev-khodeja)
 
-- 💬 Ask me about **Html, Css, Javascript, React**
+- 💬 Ask me about **Html, Css, SCSS, Bootstrap, Tailwind, Javascript, React, Node Js, Express js, MongoDB**
 
 - 📫 How to reach me **khodejaaktar713@gmail.com**
 
