@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khodeja Aktar</h1>
-<h3 align="center">A Passionate Full Stack MERN Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A Passionate Full Stack MERN Developer from Bangladesh</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dev-khodeja&label=Profile%20views&color=0e75b6&style=flat" alt="dev-khodeja" />
@@ -74,3 +74,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-khodeja&layout=compact&theme=tokyonight" />
 </p>
+
+
+### 🚀 Goals for 2026
+- Master scalable backend systems  
+- Build production-level SaaS project  
+- Contribute to open source  
